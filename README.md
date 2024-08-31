@@ -15,6 +15,7 @@ Freshman studying EECS at UC Berkeley. Strong interpersonal and technical skills
 + Led a team of 3 to design, program, and present a mobile application that tracks student participation and attendance at school events using Android Studio and Firebase’s cloud-based NoSQL database.
 + Programmed a variety of features including unique logins for teachers and students, customizable event creation, point awarding system, classroom leaderboards, quarterly report generation in the form of a PDF export, and AI helpbot using OpenAI’s ChatGPT API.
 [Youtube](https://www.youtube.com/watch?v=vRFAjfABlfQ)
+[Canva (updated version of app)](https://www.canva.com/design/DAFurCeqSpw/ZVaM7klVEFvyhH6CbiuTOQ/edit?utm_content=DAFurCeqSpw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 #### Conrad Challenge Cyber-Technology & Security Innovator Award: Outage Detection Project
 + Developed a machine learning model on Amazon Web Services to accurately predict network outages, leveraging open-source UCI data, and employing AWS SageMaker for efficient model training and deployment.
