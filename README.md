@@ -1,7 +1,7 @@
 # EECS Freshman at UC Berkeley
 
 ### About Me
-Freshman studying EECS at UC Berkeley. Strong interpersonal and technical skills. Looking for ways to apply my skills in academia or industry. If you would like to contact me, my email is stephenhung@berkeley.edu.
+Freshman studying EECS at UC Berkeley. Strong interpersonal and technical skills. Looking for ways to apply my skills in academia or industry. If you would like to contact me, my email is **stephenhung@berkeley.edu**.
 
 ### Projects
 
@@ -24,12 +24,12 @@ Employed confidence intervals to assess model accuracy by comparing predictions 
 ### Work Experience
 
 #### Magikid Robotics Lab 
-##### Stem Teacher
+#### Stem Teacher
 + Inspired young minds to explore the wonders of science, technology, engineering, and mathematics through engaging robotics projects.
 + Collaborated with a team of educators to develop and implement engaging curriculum, ensuring students received a comprehensive STEM education.
 
 #### Self Employed
-##### Physics Tutor
+#### Physics Tutor
 + Provided personalized instruction to high school students struggling with physics concepts, tailoring lessons to individual learning styles and needs.
 + Prepared students for exams by offering comprehensive review sessions and practice problems.
 
