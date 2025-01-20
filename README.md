@@ -20,7 +20,23 @@ Freshman studying EECS at UC Berkeley. Strong interpersonal and technical skills
 #### Conrad Challenge Cyber-Technology & Security Innovator Award: Outage Detection Project
 + Developed a machine learning model on Amazon Web Services to accurately predict network outages, leveraging open-source UCI data, and employing AWS SageMaker for efficient model training and deployment.
 + Utilized advanced algorithms and techniques such as XGBoost and reinforcement learning to optimize model performance
-Employed confidence intervals to assess model accuracy by comparing predictions to historical outage data, ensuring model’s ability to provide timely and actionable insights for network administrators.
++ Employed confidence intervals to assess model accuracy by comparing predictions to historical outage data, ensuring model’s ability to provide timely and actionable insights for network administrators.
+
+#### Cybernetics Ace
++ Led a high-performing VEX Robotics team through the design, build, programming, and testing cycles across multiple seasons, creating innovative solutions for unique game challenges each year.
++ Spearheaded the creation of a new robot every season, driving continuous improvement through iterative design to ensure a competitive edge.
++ Played a central role in CAD design, collaborating with the team to refine mechanical components for optimal performance.
++ Developed and implemented sophisticated control algorithms, including PID control and odometry, to enable precise autonomous operation.
++ Successfully balanced hands-on engineering with strategic planning, contributing to team success in regional and national competitions.
+[Engineering notebook link](https://github.com/stephenhungg/CyberneticsAce/blob/main/NotebookLink)
+
+#### Women’s Fashion Trend Analysis Dashboard	
++ Scraped and preprocessed fashion trend data from an open-source Kaggle dataset to analyze popular styles
++ Conducted exploratory data analysis, showcasing results in a Tableau dashboard to visualize engagement with specific product categories and brands over time. (Regional trends, ratings distribution, top performing products, etc.)
++ Delivered actionable insights for retail decision-making, improving alignment with target demographics.
+[Github](https://github.com/stephenhungg/FashionAnalysis)
+
+
 
 ### Work Experience
 
